@@ -1,10 +1,9 @@
 ---
 slug: /
+sidebar_position: 1
 ---
 
-Cette page sera la page d'accueil lorsque les utilisateurs visiteront https://example.com/.
-
-# Tutorial Intro
+# TEST
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
