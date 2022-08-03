@@ -60,7 +60,7 @@ const config = {
         title: 'Pierre Malherbe',
         logo: {
           alt: 'Logo',
-          src: 'img/logo.png',
+          src: 'img/logo.svg',
         },
         items: [
           {
