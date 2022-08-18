@@ -6,7 +6,7 @@ authors:
   title: Devops Engineer
   url: https://github.com/pierre-malherbe
   image_url: https://avatars.githubusercontent.com/u/20439202?s=400&u=291ab3694f6297ec6a2d327c60736ef77b8f9d14&v=4
-tags: [life, devops, website]
+tags: [git, devops, architecture, workflow]
 ---
 
 ## Introduction 
