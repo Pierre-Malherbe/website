@@ -56,6 +56,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      image: 'https://avatars.githubusercontent.com/u/20439202?s=400&u=291ab3694f6297ec6a2d327c60736ef77b8f9d14&v=4',
       navbar: {
         title: 'Pierre Malherbe',
         logo: {
